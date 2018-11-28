@@ -1,3 +1,5 @@
 # stuff
 stuff 
-some stuff i worte when learning python
+some stuff i wrote while learning python
+i still dont know like 80% of python
+lol
