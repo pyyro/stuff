@@ -1,3 +1,6 @@
+'''
+removes vowels from a given text 
+'''
 VOWELS = ('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U')
 text = input('Enter your text here: ')
 
