@@ -6,7 +6,7 @@ can use this for any website if the image urls are like this
 --> https://www.somewebsite.com/3.jpg
 and so on
 just replace the url in line 15 with your website without the /1.jpg
-and replace the range in line 19  with the number range of the images on the website
+and replace the range in line 19  with the number range of the images on the website 
 """
 
 import urllib.request
