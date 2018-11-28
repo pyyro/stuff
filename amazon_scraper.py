@@ -1,5 +1,6 @@
 '''
-i dont know why the fuck this doesnt work
+again this used to work 
+i dont know why the fuck this doesnt work now
 fuck u amazon and your retarded website
 '''
 import requests
