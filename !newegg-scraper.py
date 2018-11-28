@@ -33,7 +33,7 @@ def listItems(keyword):
             print('Price: ' + '$' + price)
             print('================================================')
     except:
-        print('some retarded error, code still works. ')
+        print('have like 20 errors, code still works. nice going python ')
 
 
 print('code author: yahikodark')
