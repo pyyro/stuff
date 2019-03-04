@@ -28,7 +28,7 @@ def listItems(keyword):
         print('has like 20 errors, code still works. nice going python ')
 
 
-print('code author: yahikodark')
+print('by: pyyro')
 listItems(input('Search for: '))
 
 k = input('Press Enter to quit') #forgot why i added this
