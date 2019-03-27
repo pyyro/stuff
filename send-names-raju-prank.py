@@ -22,7 +22,7 @@ for name in names:
     requests.post(url, allow_redirects="False", data={
         'nameField': myname,
         'crushField': crushname,
-        'ownerid': me
+        'ownerid': raju #whose link to send the names to, values are assigned in lines 7 and 8
 
     })
 
