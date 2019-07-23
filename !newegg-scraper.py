@@ -1,3 +1,6 @@
+'''
+this dumb shit doesnt work anymore
+'''
 from bs4 import BeautifulSoup
 import requests
 
